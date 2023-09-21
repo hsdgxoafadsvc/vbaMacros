@@ -1,69 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T14:15:48.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="sHtoKXVIUZjkB6sQeHRA" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T13:21:14.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="42M6ZCYkRszQ5PLblYCW" version="21.7.5" type="github">
   <diagram name="Страница — 1" id="ZN9Zfw2zkkUrsZfMk1DQ">
-    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-1" target="oUw8ndJiCr0gR4RyfcJq-2">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-1" target="oUw8ndJiCr0gR4RyfcJq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-1" value="Согласование дизайна" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-1" value="Согласование дизайна" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="330" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-2" target="oUw8ndJiCr0gR4RyfcJq-6">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-2" target="oUw8ndJiCr0gR4RyfcJq-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-2" value="Дизайн" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-2" value="Дизайн" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="330" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-6" target="oUw8ndJiCr0gR4RyfcJq-8">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-6" target="oUw8ndJiCr0gR4RyfcJq-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-6" target="oUw8ndJiCr0gR4RyfcJq-33">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-6" target="oUw8ndJiCr0gR4RyfcJq-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-6" value="Разработка заготовки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-6" value="Разработка заготовки" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-8" target="oUw8ndJiCr0gR4RyfcJq-47">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-8" target="oUw8ndJiCr0gR4RyfcJq-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-8" value="Создание файлов для изготовления фотошаблонов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-8" value="Создание файлов для изготовления фотошаблонов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="330" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oUw8ndJiCr0gR4RyfcJq-33" target="oUw8ndJiCr0gR4RyfcJq-39">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oUw8ndJiCr0gR4RyfcJq-33" target="oUw8ndJiCr0gR4RyfcJq-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-33" value="BlankConstructor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-33" value="BlankConstructor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="390" width="280" height="130" as="geometry">
             <mxRectangle x="250" y="400" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-34" value="Определение количества деталей в заготовке, ее габаритных размеров" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-33">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-34" value="Определение количества деталей в заготовке, ее габаритных размеров" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="oUw8ndJiCr0gR4RyfcJq-33" vertex="1">
           <mxGeometry y="26" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-35" value="Нанесение реквизитной информации: дата, номера и описание слоев, знак изготовителя и прочее" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-33">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-35" value="Нанесение реквизитной информации: дата, номера и описание слоев, знак изготовителя и прочее" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="oUw8ndJiCr0gR4RyfcJq-33" vertex="1">
           <mxGeometry y="70" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-39" value="LabelTools" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-39" value="LabelTools" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="550" width="280" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-40" value="Нанесение технологических знаков" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-39">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-40" value="Нанесение технологических знаков" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;" parent="oUw8ndJiCr0gR4RyfcJq-39" vertex="1">
           <mxGeometry y="26" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-47" value="LayersTranslator" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" vertex="1" parent="1">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-47" value="LayersTranslator" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="390" width="300" height="180" as="geometry">
             <mxRectangle x="250" y="400" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-48" value="&lt;div&gt;Сохранение каждого слоя файла заготовки в отдельный файл&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-47">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-48" value="&lt;div&gt;Сохранение каждого слоя файла заготовки в отдельный файл&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="oUw8ndJiCr0gR4RyfcJq-47" vertex="1">
           <mxGeometry y="26" width="300" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-51" value="Вставка слоя с реквизитной информацией в слой фотошаблона (или же объединение необходимых слоев)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-47">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-51" value="Вставка слоя с реквизитной информацией в слой фотошаблона (или же объединение необходимых слоев)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="oUw8ndJiCr0gR4RyfcJq-47" vertex="1">
           <mxGeometry y="70" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oUw8ndJiCr0gR4RyfcJq-49" value="Перевод всех объектов слоя в кривые, а также приведение их к одному цвету" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="oUw8ndJiCr0gR4RyfcJq-47">
+        <mxCell id="oUw8ndJiCr0gR4RyfcJq-49" value="Перевод всех объектов слоя в кривые, а также приведение их к одному цвету" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="oUw8ndJiCr0gR4RyfcJq-47" vertex="1">
           <mxGeometry y="130" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6XvMk_8ps-RJlKdcPIL-1" value="Панель управления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="900" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-6XvMk_8ps-RJlKdcPIL-2" value="Плата на гибком основании" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="990" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-6XvMk_8ps-RJlKdcPIL-3" value="Плата на твердом основании" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="990" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-6XvMk_8ps-RJlKdcPIL-4" value="Разработка схемы подключения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="1070" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
