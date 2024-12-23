@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3862" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4843" dy="2827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -9,11 +9,11 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="351Vfbh0vFhuDnyXnwBA-13" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Объем энергонезависимой памяти не менее 4 ГБ, тип памяти еММС;&lt;/li&gt;&lt;li&gt;Объем оперативной памяти не менее 2 ГБ;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;imageWidth=19;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="26" width="733" height="60" as="geometry" />
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-13" value="&lt;ul style=&quot;padding-left: 15px;&quot;&gt;&lt;li&gt;Объем энергонезависимой памяти не менее 4 ГБ, тип памяти еММС;&lt;/li&gt;&lt;li&gt;Объем оперативной памяти не менее 2 ГБ;&lt;/li&gt;&lt;li&gt;Питание терминала должно осуществляться от бортовой сети мобильной &lt;br&gt;сельскохозяйственной машины с номинальным напряжением 24 В по ГОСТ 3940-2004.&lt;/li&gt;&lt;li&gt;Терминал должен сохранять работоспособность при изменении подводимого напряжения&lt;br&gt; в диапазоне от 18 до 36 В по ГОСТ 3940-2004.&lt;/li&gt;&lt;li&gt;Терминал должен сохранять работоспособность при воздействии пониженного напряжения &lt;br&gt;питания при пуске двигателя до 12 В в течение 5 мин по ГОСТ 30241.1-96.&lt;/li&gt;&lt;li&gt;В терминале должна быть предусмотрена защита, предохраняющая от замыкания попарно всех выводов и каждого &lt;br&gt;вывода на бортовую сеть или на корпус, а также попарного перепутывания (переполюсовки).&lt;br&gt;&lt;/li&gt;&lt;li&gt;Сопротивление изоляции кабелей должно быть не менее 20 МОм.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Режим работы терминала продолжительный номинальный SI по ГОСТ 3940-2004.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Максимальная потребляемая мощность должна быть не более 30 Вт.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Остальные требования см. &quot;Утвержденные ТТ на Графический Терминал&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;imageWidth=19;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+          <mxGeometry y="26" width="733" height="240" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="86" width="733" height="8" as="geometry" />
+          <mxGeometry y="266" width="733" height="8" as="geometry" />
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" edge="1">
           <mxGeometry relative="1" as="geometry">
