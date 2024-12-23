@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3163" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3862" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -17,11 +17,11 @@
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="600" as="targetPoint" />
+            <mxPoint x="550" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="FM-модуль" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="1080" width="250" height="104" as="geometry">
+          <mxGeometry x="630" y="1080" width="250" height="104" as="geometry">
             <mxRectangle x="310" y="410" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -36,11 +36,11 @@
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="600" as="targetPoint" />
+            <mxPoint x="610" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-1" value="GPS-модуль" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;spacingLeft=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="660" width="170" height="164" as="geometry">
+          <mxGeometry x="630" y="660" width="170" height="164" as="geometry">
             <mxRectangle x="310" y="410" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -55,11 +55,11 @@
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="600" as="targetPoint" />
+            <mxPoint x="580" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-4" value="GSM-модуль" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="870" width="220" height="174" as="geometry">
+          <mxGeometry x="630" y="870" width="220" height="174" as="geometry">
             <mxRectangle x="310" y="410" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -147,11 +147,11 @@
         </mxCell>
         <mxCell id="351Vfbh0vFhuDnyXnwBA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="600" as="targetPoint" />
+            <mxPoint x="250" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-19" value="Датчик уровня освещенности" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="190" y="729" width="210" height="26" as="geometry">
+          <mxGeometry x="250" y="729" width="210" height="26" as="geometry">
             <mxRectangle x="210" y="730" width="180" height="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -183,14 +183,14 @@
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="600" as="targetPoint" />
+            <mxPoint x="210" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="793" />
+              <mxPoint x="210" y="793" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-27" value="Считыватель RFID/NFC меток" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="190" y="780" width="210" height="26" as="geometry">
+          <mxGeometry x="250" y="780" width="210" height="26" as="geometry">
             <mxRectangle x="210" y="780" width="190" height="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -282,19 +282,19 @@
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-63" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="600" as="targetPoint" />
+            <mxPoint x="180" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mmJ2XwxNnpeeQNrBahXj-63" value="Клавиши (опционально)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="190" y="830" width="210" height="26" as="geometry">
-            <mxRectangle x="210" y="830" width="190" height="88" as="alternateBounds" />
+        <mxCell id="mmJ2XwxNnpeeQNrBahXj-63" value="Клавиши (опционально)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="830" width="200" height="130" as="geometry">
+            <mxRectangle x="250" y="830" width="210" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mmJ2XwxNnpeeQNrBahXj-64" value="-" style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="mmJ2XwxNnpeeQNrBahXj-63" vertex="1">
-          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-18" value="&lt;ul style=&quot;padding-left: 15px; margin-top: 5px; margin-bottom: 5px;&quot;&gt;&lt;li&gt;1 кл. ВКЛ/ВЫКЛ&lt;br&gt;&lt;/li&gt;&lt;li&gt;2 кл. управление звуком&lt;br&gt;&lt;/li&gt;&lt;li&gt;2 кл. управление яркостью&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;" vertex="1" parent="mmJ2XwxNnpeeQNrBahXj-63">
+          <mxGeometry y="26" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-65" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="mmJ2XwxNnpeeQNrBahXj-63" vertex="1">
-          <mxGeometry y="52" width="190" height="8" as="geometry" />
+          <mxGeometry y="96" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="mmJ2XwxNnpeeQNrBahXj-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -352,27 +352,27 @@
         <mxCell id="_bf-xzJOz2L2qGSa89S1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;startArrow=block;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mmJ2XwxNnpeeQNrBahXj-31" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_bf-xzJOz2L2qGSa89S1-16" value="ПО" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="420" y="-380" width="320" height="250" as="geometry">
+        <mxCell id="_bf-xzJOz2L2qGSa89S1-16" value="Программная платформа" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="-650" width="1100" height="520" as="geometry">
             <mxRectangle x="310" y="410" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bf-xzJOz2L2qGSa89S1-17" value="-" style="text;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_bf-xzJOz2L2qGSa89S1-16" vertex="1">
-          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-11" value="&lt;ul&gt;&lt;li&gt;Ядро операционной системы - должно быть не ниже версии Linux kernel 4.9 LTS;&lt;/li&gt;&lt;li&gt;Время готовности изделия в нормальных условиях «холодный запуск» (после включения Un) и до начала инициализации приложения - не более 25с;&lt;/li&gt;&lt;li&gt;Должно быть наличие всех необходимых драйверов для работы требуемых периферийных устройств, портов, интерфейсов, файловых систем;&lt;/li&gt;&lt;li&gt;Должна быть поддержка основных сетевых проводных протоколов - TCP/IP, UDP, HTTP/HTTPS; FTP/SFTP, SSH;&lt;/li&gt;&lt;li&gt;Должна быть поддержка сетевых беспроводных протоколов - WI FI (IEEE 802.11), Bluetooth (IEEE 802.15.1), NFC, RFID;&lt;/li&gt;&lt;li&gt;Должна быть поддержка компиляторов и сборочных систем GCC, G++, Qmake, Make;&lt;/li&gt;&lt;li&gt;Должна быть поддержка отладчика GNU Debugger (GDB) для отладки пропрограммного обеспечения на изделии;&lt;/li&gt;&lt;li&gt;Должна быть поддержка базовых утилит и команд Linux;&lt;/li&gt;&lt;li&gt;Должна быть поддержка утилиты apt, для установки/обновления/удаления пакетов программного обеспечения;&lt;/li&gt;&lt;li&gt;Должна быть поддержка необходимых библиотек и кодеков для работы с наиболее распространенными форматами аудио, видео файлами и графическими изображениями;&lt;/li&gt;&lt;li&gt;Должна быть поддержка необходимых библиотек gstreamer, для работы с потоковым видео;&lt;/li&gt;&lt;li&gt;Должна быть поддержка библиотек для работы и отображения файлов формата.pdf, поиск в тексте по ключевым словам;&lt;/li&gt;&lt;li&gt;Должна быть поддержка необходимых библиотек для создания приложений, взаимодействующих с веб-сервисами с помощью SOAP (Simple Object Access Protocol) протокола;&lt;/li&gt;&lt;li&gt;Должна быть поддержка библиотек для разработки приложений на Qt версии не ниже 5.9 LTS;&lt;/li&gt;&lt;li&gt;Должно быть наличие командной консоли, консольного текстового редактора (Nano, Vim), файлового менеджера (МС);&lt;/li&gt;&lt;li&gt;Должна быть поддержка встроенного клиента автоматического обновления программного обеспечения приложений и операционной системы - RAUC;&lt;/li&gt;&lt;li&gt;Должно быть наличие тестового API, обеспечивающего проверку функциональных узлов изделия (дисплей, тачскрин, аудио, CAN, FM и т.д.);&lt;/li&gt;&lt;li&gt;Должно быть наличие DEMO приложения, демонстрирующее возможности изделия;&lt;/li&gt;&lt;li&gt;Должно быть предоставление SDK(Software Development Kit) для разработки кроссплатформенных приложений при помощи Qt Framework - Qt Toolchain;&lt;/li&gt;&lt;li&gt;Должна быть обеспечена возможность обновления программного обеспечения&lt;br&gt; с флэш накопителя, подключенного к его USB порту посредством встроенного клиента&lt;br&gt; автоматического обновления ПО - RAUC;&lt;/li&gt;&lt;li&gt;Должна быть обеспечена возможность установки дополнительных пакетов и обновлений программного обеспечения через проводное/беспроводное подключение к сети Internet.&lt;/li&gt;&lt;li&gt;Передача данных на удалённый сервер должна осуществляться при помощи GSM/GPRS каналов связи, так же через WiFi при наличии подключения к сети Internet;&lt;/li&gt;&lt;li&gt;Автоматическая запись непереданных данных на энергонезависимый накопитель информации, ёмкость накопителя должна обеспечивать регистрацию данных не менее 500 Мб.&lt;/li&gt;&lt;li&gt;Наличие мультимедийных функций: радио, видео, аудио (опционально);&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;imageWidth=19;" vertex="1" parent="_bf-xzJOz2L2qGSa89S1-16">
+          <mxGeometry y="26" width="1100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="_bf-xzJOz2L2qGSa89S1-18" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_bf-xzJOz2L2qGSa89S1-16" vertex="1">
-          <mxGeometry y="52" width="320" height="8" as="geometry" />
+          <mxGeometry y="456" width="1100" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_bf-xzJOz2L2qGSa89S1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.414;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;shape=flexArrow;startArrow=block;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_bf-xzJOz2L2qGSa89S1-16" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_bf-xzJOz2L2qGSa89S1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_bf-xzJOz2L2qGSa89S1-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="600" as="targetPoint" />
+            <mxPoint x="160" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_bf-xzJOz2L2qGSa89S1-27" value="Переключатель терминатора шины CAN" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" collapsed="1">
-          <mxGeometry x="190" y="880" width="250" height="26" as="geometry">
+          <mxGeometry x="250" y="990" width="250" height="26" as="geometry">
             <mxRectangle x="210" y="830" width="190" height="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -390,8 +390,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="351Vfbh0vFhuDnyXnwBA-11" value="&lt;ul&gt;&lt;li&gt;Должна быть обеспечена возможность обновления программного обеспечения&lt;br&gt; с флэш накопителя, подключенного к его USB порту посредством встроенного клиента&lt;br&gt; автоматического обновления ПО - RAUC;&lt;/li&gt;&lt;li&gt;Должна быть обеспечена возможность установки дополнительных пакетов и обновлений &lt;br&gt;программного обеспечения через проводное/беспроводное подключение к сети Internet.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;imageWidth=19;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="-570" width="580" height="110" as="geometry" />
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-19" value="Энергонезависимый накопитель инфромации ?" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontColor=#FF6666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="1054" width="270" height="130" as="geometry">
+            <mxRectangle x="250" y="830" width="210" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-20" value="&lt;ul style=&quot;padding-left: 15px; margin-top: 5px; margin-bottom: 5px;&quot;&gt;&lt;li&gt;Не менее 500 МБт&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingLeft=12;spacing=0;" vertex="1" parent="351Vfbh0vFhuDnyXnwBA-19">
+          <mxGeometry y="26" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="351Vfbh0vFhuDnyXnwBA-21" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="351Vfbh0vFhuDnyXnwBA-19">
+          <mxGeometry y="56" width="270" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
